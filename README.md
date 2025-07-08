@@ -2,8 +2,9 @@
 
 This is a solution to the [Frontend Mentor](https://www.frontendmentor.io?ref=challenge) **Blog preview card** challenge. The goal of this challenge was to build a simple, visually appealing blog preview card using only HTML and CSS.
 
-![Preview Screenshot](./assets/images/Screenshotmobile.png)
 ![Preview Screenshot](./assets/images/Screenshotdesktop.png)
+![Preview Screenshot](./assets/images/Screenshotmobile.png)
+
 
 ## 🔗 Live Demo
 
