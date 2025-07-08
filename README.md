@@ -66,7 +66,7 @@ Design inspiration and assets are provided by Frontend Mentor.
 To run this project locally:
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/blog-preview-card.git`
+   `git clone https://github.com/muratkilci067/Blog-preview-card.git`
 2. Open `index.html` in your browser
 3. Optionally, deploy it using GitHub Pages or Netlify
 
