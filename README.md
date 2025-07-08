@@ -4,7 +4,7 @@ This is a solution to the [Frontend Mentor](https://www.frontendmentor.io?ref=ch
 
 ## 🔗 Live Demo
 
-👉 [Live Site URL](https://your-live-site-link.com)
+👉 [Live Site URL](https://muratkilci067.github.io/Blog-preview-card/)
 
 ---
 
