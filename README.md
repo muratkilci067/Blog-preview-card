@@ -37,7 +37,7 @@ While building this project, I practiced:
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](./assets/images/desktop-preview.png) | ![Mobile](./assets/images/mobile-preview.png) |
+| ![Desktop](./assets/images/Screenshotdesktop.png) | ![Mobile](./assets/images/Screenshotmobile.png) |
 
 ---
 
@@ -52,8 +52,8 @@ While building this project, I practiced:
 
 ## 👨‍💻 Author
 
-- Frontend Mentor: [@your-username](https://www.frontendmentor.io/profile/your-username)
-- GitHub: [@your-github](https://github.com/your-github)
+- Frontend Mentor: [@muratkilci067](https://www.frontendmentor.io/profile/muratkilci067)
+- GitHub: [@muratkilci067](https://github.com/muratkilci067)
 - Live demo hosted on: [your domain or GitHub Pages]
 
 ---
